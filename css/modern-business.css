@@ -14,6 +14,10 @@ body {
   }
 }
 
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.4);
+}
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
